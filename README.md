@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![IT Support for Tripzygo](https://github-readme-stats.vercel.app/api?username=IT-Tripzygo&show_icons=true&theme=radical)
